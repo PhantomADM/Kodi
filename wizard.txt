@@ -56,7 +56,7 @@ WARNING: This tool will overwrite your current settings and does not yet functio
 
 name="TLBB"
 url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
-img="hhttp://img703.imageshack.us/img703/1504/vw1p.jpg"
+img="http://img703.imageshack.us/img703/1504/vw1p.jpg"
 fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
 description="Configure XBMC with all the Best Goodies Available in Just One Click!
 WARNING: This tool will overwrite your current settings!"
