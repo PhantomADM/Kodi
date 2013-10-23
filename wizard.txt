@@ -1,0 +1,62 @@
+name="MAC"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img18.imageshack.us/img18/3623/clk6.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="WINDOWS"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img513.imageshack.us/img513/5797/vgpw.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="OUYA"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img837.imageshack.us/img837/6648/dr2z.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="ANDROID"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img6.imageshack.us/img6/3527/u2vi.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="iDEVICES"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img11.imageshack.us/img11/7562/qiui.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="ATV"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img15.imageshack.us/img15/8389/o5vr.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="PIVOS"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img600.imageshack.us/img600/5481/ftgj.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+
+name="LINUX"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="http://img46.imageshack.us/img46/8449/3uli.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
+
+name="TLBB"
+url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
+img="hhttp://img703.imageshack.us/img703/1504/vw1p.jpg"
+fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
+description="Configure XBMC with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
