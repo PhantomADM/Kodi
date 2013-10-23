@@ -1,6 +1,0 @@
-name="MAC"
-url="http://ubuntuone.com/3v4nWzKMrSaJhwzdQL1AeI"
-img="http://fusion.xbmchub.com/xpert-advanced/tools/wizard-imgs/mac.jpg"
-fanart="https://dl.dropboxusercontent.com/u/24282292/Wizard/fanart.jpg"
-description="Configure XBMC with all the Best Goodies Available in Just One Click!
-WARNING: This tool will overwrite your current settings!"
